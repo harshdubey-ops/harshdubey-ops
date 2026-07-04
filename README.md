@@ -39,10 +39,7 @@
 ![](https://komarev.com/ghpvc/?username=harshdubey-ops&color=blue)
 ![](https://komarev.com/ghpvc/?username=harshdubey-ops&label=Profile%20Views&color=0e75b6&style=flat)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdubey-ops&theme=tokyo-night)
-## 📊 GitHub Analytics
 
-
-![Metrics](https://raw.githubusercontent.com/harshdubey-ops/harshdubey-ops/main/metrics.svg)
 
 
 

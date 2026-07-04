@@ -1,4 +1,10 @@
-## Hi there 👋
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdubey-ops&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshdubey-ops&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdubey-ops&layout=compact&theme=tokyonight)
 
 <!--
 **harshdubey-ops/harshdubey-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

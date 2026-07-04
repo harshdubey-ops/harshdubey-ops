@@ -1,5 +1,14 @@
 
 
+## 👋 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about Coding & Software Development
+- 🌱 Currently learning DSA and Core Java
+- 🚀 Building real-world projects
+- 🎯 Aspiring Software Development Engineer (SDE)
+- 📖 Always learning and improving
+
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)

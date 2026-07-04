@@ -1,20 +1,17 @@
 
 
 ## 👋 About Me
-
 - 🎓 B.tech student 
 - 💻 Aspiring Full Stack developer 
 - 🌱 Currently learning DSA and Core Java
 - 📖 Always learning and improving
 
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshdubey-ops)
 
 ## 🛠️ Tech Stack
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,7 +25,6 @@
 
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdubey-ops&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshdubey-ops&theme=tokyonight)
@@ -37,7 +33,9 @@
 ![](https://komarev.com/ghpvc/?username=harshdubey-ops&color=blue)
 ![](https://komarev.com/ghpvc/?username=harshdubey-ops&label=Profile%20Views&color=0e75b6&style=flat)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdubey-ops&theme=tokyo-night)
-## 🛠️ Tech Stack
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshdubey-ops&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

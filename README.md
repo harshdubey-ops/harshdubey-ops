@@ -40,8 +40,7 @@
 ![](https://komarev.com/ghpvc/?username=harshdubey-ops&label=Profile%20Views&color=0e75b6&style=flat)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdubey-ops&theme=tokyo-night)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshdubey-ops&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=%24+whoami;Harsh+Dubey;%24+cat+skills.txt;Java+%7C+C%2B%2B+%7C+JavaScript;%24+echo+%22status%22;Aspiring+Full+Stack+Developer+%F0%9F%98%8E)
 
 
 

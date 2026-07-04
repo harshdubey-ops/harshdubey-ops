@@ -2,11 +2,9 @@
 
 ## 👋 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about Coding & Software Development
+- 🎓 B.tech student 
+- 💻 Aspiring Full Stack developer 
 - 🌱 Currently learning DSA and Core Java
-- 🚀 Building real-world projects
-- 🎯 Aspiring Software Development Engineer (SDE)
 - 📖 Always learning and improving
 
 ## 🛠️ Tech Stack

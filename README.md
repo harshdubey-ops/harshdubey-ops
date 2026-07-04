@@ -24,10 +24,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/harshdubey-ops/harshdubey-ops/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/harshdubey-ops/harshdubey-ops/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdubey-ops&show_icons=true&theme=tokyonight)

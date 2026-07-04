@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Dubey+%F0%9F%98%8E;Aspiring+Full+Stack+Developer;Currently+Learning+%26+Growing)
 
 
 ## 👋 About Me

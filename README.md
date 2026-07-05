@@ -35,8 +35,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshdubey-ops&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdubey-ops&layout=compact&theme=tokyonight)
-![](https://komarev.com/ghpvc/?username=harshdubey-ops&color=blue)
 ![](https://komarev.com/ghpvc/?username=harshdubey-ops&label=Profile%20Views&color=0e75b6&style=flat)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdubey-ops&theme=tokyo-night)
 

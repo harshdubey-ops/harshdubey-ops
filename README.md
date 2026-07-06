@@ -9,9 +9,6 @@
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
 
-## 🧩 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/harshdubey?theme=dark&font=Fira+Code&ext=heatmap)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)

@@ -33,6 +33,10 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdubey-ops&layout=compact&theme=radical)
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/harshdubey-ops/harshdubey-ops/blob/output/github-contribution-grid-snake-dark.svg)

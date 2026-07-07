@@ -37,12 +37,7 @@
 
 ![Snake animation](https://github.com/harshdubey-ops/harshdubey-ops/blob/output/github-contribution-grid-snake-dark.svg)
 
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harshdubey-ops&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=harshdubey-ops&label=Profile%20Views&color=0e75b6&style=flat)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshdubey-ops&theme=tokyo-night)
 
 ### 🌈 3D Contribution Graph
 

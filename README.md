@@ -39,7 +39,11 @@
 
 
 
-### 🌈 3D Contribution Graph
+
+##Github Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshdubey-ops&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
+
 
 ![3D Graph](https://raw.githubusercontent.com/harshdubey-ops/harshdubey-ops/main/profile-3d-contrib/profile-night-rainbow.svg)
 

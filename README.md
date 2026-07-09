@@ -33,16 +33,16 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
-## 🐍 Contribution Snake
+## 🐍Contribution Snake
 
 ![Snake animation](https://github.com/harshdubey-ops/harshdubey-ops/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-## Github Streak
+## 🔥Github Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshdubey-ops&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
 
-
+## 🌈3D Graph 
 ![3D Graph](https://raw.githubusercontent.com/harshdubey-ops/harshdubey-ops/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 

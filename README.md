@@ -2,7 +2,6 @@
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
 
-
 ## 👋 About Me
 - 🎓 B.tech student 
 - 💻 Aspiring Full Stack developer 

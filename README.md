@@ -8,11 +8,13 @@
 - 🌱 Currently learning DSA and Core Java
 - 📖 Always learning and improving
 
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshdubey-ops)
+
 
 
 ## 🛠 Tech Stack
@@ -34,9 +36,11 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
 
+
 ## 🐍Contribution Snake
 
 ![Snake animation](https://github.com/harshdubey-ops/harshdubey-ops/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## 🔥Github Streak

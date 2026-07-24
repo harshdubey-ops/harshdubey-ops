@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Dubey+%F0%9F%98%8E;Aspiring+Full+Stack+Developer;Currently+Learning+%26+Growing)
 
+
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
 
 
@@ -28,7 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-
 **Tools & IDEs**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -45,6 +45,7 @@
 ## 🔥Github Streak
 
 ![GitHub_Streak](https://streak-stats.demolab.com/?user=harshdubey-ops&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
+
 
 ## 🌈3D Graph 
 ![3D Graph](https://raw.githubusercontent.com/harshdubey-ops/harshdubey-ops/main/profile-3d-contrib/profile-night-rainbow.svg)

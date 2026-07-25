@@ -2,7 +2,6 @@
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
 
-
 ## 👋 About Me
 - 🎓 B.tech student.
 - 💻 Aspiring Full Stack developer.
@@ -56,7 +55,6 @@
 
 
 ![3D Graph](https://raw.githubusercontent.com/harshdubey-ops/harshdubey-ops/main/profile-3d-contrib/profile-night-rainbow.svg)
-
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
 

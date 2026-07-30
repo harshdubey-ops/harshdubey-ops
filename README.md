@@ -47,9 +47,7 @@
 
 ## 🔥Github Streak
 
-[
-![GitHub Streak](https://streak-stats.demolab.com?user=harshdubey-ops&theme=radical)
-](https://git.io/streak-stats)
+![GitHub Streak](https://raw.githubusercontent.com/harshdubey-ops/harshdubey-ops/main/profile/streak.svg)
 
 
 ## 🌈3D Graph 

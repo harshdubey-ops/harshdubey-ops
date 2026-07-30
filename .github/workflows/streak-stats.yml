@@ -1,4 +1,4 @@
-name: Generate GitHub Streak Stats SVG
+name: Update streak stats
 
 on:
   schedule:
@@ -6,13 +6,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-streak-stats:
+  build:
     runs-on: ubuntu-latest
-    name: Generate streak stats image
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1.6.0
         with:
-          user_id: harshdubey-ops
-          theme: radical
-          exclude_days: ""
+          options: user=harshdubey-ops&theme=radical&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}

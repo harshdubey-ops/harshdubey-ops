@@ -1,0 +1,18 @@
+name: Generate GitHub Streak Stats SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-streak-stats:
+    runs-on: ubuntu-latest
+    name: Generate streak stats image
+    steps:
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: harshdubey-ops
+          theme: radical
+          exclude_days: ""

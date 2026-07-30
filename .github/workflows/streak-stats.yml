@@ -11,7 +11,7 @@ jobs:
     name: Generate streak stats image
     steps:
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@v2.2.1
+        uses: DenverCoder1/github-readme-streak-stats@v1.6.0
         with:
           user_id: harshdubey-ops
           theme: radical

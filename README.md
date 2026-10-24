@@ -67,47 +67,50 @@
 
 
 ![3D Graph](https://raw.githubusercontent.com/harshdubey-ops/harshdubey-ops/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 ### 🚀 Featured Projects
 
 <table>
   <tr>
     <td>
       <h3>🧾 Resumind: AI Resume Analyzer</h3>
-      <p>ATS scoring, resume builder (templates, live preview, multiple versions, PDF/DOCX export) aur job description matching.</p>
+      <p>AI-powered resume analysis with ATS scoring, a resume builder (professional templates, live preview, multiple saved versions, PDF/DOCX export) and job description matching to identify skill gaps.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" alt="Resumind tech stack" />
       </p>
       <p>
-        <a href="https://resumind-ai-analyzer.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit_App-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-        <a href="https://github.com/harshdubey-ops/RESUMIND-"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+        <a href="https://resumind-ai-analyzer.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit_App-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Resumind Live Demo" /></a>
+        <a href="https://github.com/harshdubey-ops/RESUMIND-"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Resumind GitHub Repo" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>🎮 Quiz Game</h3>
-      <p>Interesting quiz game jisme questions, score aur interactive gameplay hai.</p>
+      <p>An interactive quiz game built with HTML, CSS and JavaScript.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=html,css,js" alt="Quiz Game tech stack" />
       </p>
       <p>
-        <a href="https://github.com/harshdubey-ops/Quiz-game-"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+        <a href="https://harshdubey-ops.github.io/Quiz-game-/"><img src="https://img.shields.io/badge/Live_Demo-Play_Now-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Quiz Game Live Demo" /></a>
+        <a href="https://github.com/harshdubey-ops/Quiz-game-"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Quiz Game GitHub Repo" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>🏆 Hack-project-2026</h3>
-      <p>BGI Hackathon 2026 ka team project.</p>
+      <p>Team project built for BGI Hackathon 2026.</p>
       <p>
-        <img src="https://skillicons.dev/icons?i=js" alt="Hackathon project tech stack" />
+        <img src="https://skillicons.dev/icons?i=js" alt="Hack-project-2026 tech stack" />
       </p>
       <p>
-        <a href="https://github.com/harshdubey-ops/Hack-project-2026"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+        <a href="https://github.com/harshdubey-ops/Hack-project-2026"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Hack-project-2026 GitHub Repo" /></a>
       </p>
     </td>
   </tr>
 </table>
+
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
 
 

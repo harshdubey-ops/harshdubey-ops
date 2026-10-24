@@ -1,8 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Dubey+%F0%9F%98%8E;Aspiring+Full+Stack+Developer;Currently+Learning+%26+Growing)
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=footer" width="100%" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=header" width="100%" alt="header wave" />
 
 ## 👤 About me
 - 🎓 B.tech student.
@@ -110,17 +109,4 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=header" width="100%" alt="header wave" />
-**harshdubey-ops/harshdubey-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=footer" width="100%" alt="footer wave" />

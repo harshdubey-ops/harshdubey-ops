@@ -2,8 +2,7 @@
 
 
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=footer" width="100%" alt="footer wave" />
 
 ## 👤 About me
 - 🎓 B.tech student.
@@ -111,13 +110,7 @@
   </tr>
 </table>
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00FF7F&height=80&section=header)
-
-
-
-
-
-<!--
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=header" width="100%" alt="header wave" />
 **harshdubey-ops/harshdubey-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

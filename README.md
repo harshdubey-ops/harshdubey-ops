@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Dubey+%F0%9F%98%8E;Aspiring+Full+Stack+Developer;Currently+Learning+%26+Growing)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Dubey+%F0%9F%98%8E;Aspiring+Full+Stack+Developer;Currently+Learning+%26+Growing" alt="Typing SVG" />
+</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=header" width="100%" alt="header wave" />

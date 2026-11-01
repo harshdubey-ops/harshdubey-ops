@@ -47,7 +47,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
 
 ## 📊 GitHub Stats:
@@ -56,10 +55,6 @@
 ![](https://github.com/harshdubey-ops/github-states/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/harshdubey-ops/github-states/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/harshdubey-ops/github-states/blob/generated/languages.svg#gh-light-mode-only)
-
-
-
-
 
 
 ## 🐍Contribution Snake

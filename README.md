@@ -50,6 +50,17 @@
 
 </div>
 
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img height="180" alt="Harsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshdubey-ops&show_icons=true&theme=github_dark&hide_border=false&count_private=true" />
+</p>
+
+
+
+
+
+
 
 ## 🐍Contribution Snake
 

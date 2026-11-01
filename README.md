@@ -52,10 +52,10 @@
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img height="180" alt="Harsh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshdubey-ops&show_icons=true&theme=github_dark&hide_border=false&count_private=true" />
-</p>
-
+![](https://github.com/harshdubey-ops/github-states/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/harshdubey-ops/github-states/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/harshdubey-ops/github-states/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/harshdubey-ops/github-states/blob/generated/languages.svg#gh-light-mode-only)
 
 
 
